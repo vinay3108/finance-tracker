@@ -9,6 +9,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        customOrange: '#FDA276',
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
